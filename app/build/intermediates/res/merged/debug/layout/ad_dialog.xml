@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+     android:background="@drawable/ad_background" 
+   >
+
+    <ImageButton
+        android:id="@+id/btnexit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:padding="20dp"
+        android:src="@drawable/ad_x"
+        android:background="#00000000" />
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnexit"
+        android:layout_centerInParent="true"
+        android:src="@drawable/carebest_c" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:textSize="20sp"
+        android:padding="20dp"
+        android:layout_below="@+id/imageView1"
+        android:text="@string/ad_content"
+        android:textColor="@color/txtDark_gray" />
+
+    <ImageButton
+        android:id="@+id/imbtnadlink"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView1"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/round_button_red"
+      	android:scaleType="fitCenter"
+ 		android:layout_margin="10dp"
+ 		android:paddingLeft="20dp"
+ 		android:paddingRight="20dp"
+ 		android:paddingTop="10dp"
+ 		android:paddingBottom="20dp"
+        android:src="@drawable/carebest_button" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imbtnadlink"
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/White"
+        android:layout_marginTop="20dp"
+      
+        android:text=" " />
+	
+</RelativeLayout>

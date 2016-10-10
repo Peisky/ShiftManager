@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\build\\intermediates\\res\\merged\\debug\\anim\\delay.xml",
+        "source": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\src\\main\\res\\anim\\delay.xml"
+    },
+    {
+        "merged": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\build\\intermediates\\res\\merged\\debug\\anim\\jump.xml",
+        "source": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\src\\main\\res\\anim\\jump.xml"
+    },
+    {
+        "merged": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\build\\intermediates\\res\\merged\\debug\\anim\\cycle.xml",
+        "source": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\src\\main\\res\\anim\\cycle.xml"
+    }
+]

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+     >
+
+    <TextView
+        android:id="@+id/txtPref_Title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+		android:padding="10dp"
+        android:text="Large Text"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <ImageButton
+        android:id="@+id/btnplus"
+        android:src="@drawable/plus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:layout_alignParentRight="true"
+        android:background="#00000000"
+        android:text="+" />
+
+    <EditText
+        android:id="@+id/edtScore"
+        android:layout_width="70dp"
+        android:layout_height="wrap_content"
+        android:layout_toLeftOf="@+id/btnplus"
+        android:ems="10"
+        android:focusable="false"
+        android:inputType="numberDecimal" >
+    </EditText>
+
+    <ImageButton
+        android:id="@+id/btnminus"
+        android:src="@drawable/minus"
+        android:layout_toLeftOf="@+id/edtScore"
+        android:padding="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#00000000"
+        android:text="-" />
+
+</RelativeLayout>

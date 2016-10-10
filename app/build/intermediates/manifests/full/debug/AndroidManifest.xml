@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.peisky"
+    android:versionCode="9"
+    android:versionName="ver1.0.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="18" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/smicon_v1_512"
+        android:killAfterRestore="false"
+        android:label="@string/app_name"
+        android:theme="@style/myTheme" >
+        <activity
+            android:name="com.peisky.sm.shiftmanager.MainActivity"
+            android:icon="@drawable/smicon_v1_512"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/MainAct" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.peisky.sm.shiftmanager.Workerlist"
+            android:icon="@drawable/logo_s"
+            android:label="@string/ShiftConfSettinLabel"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.peisky.sm.shiftmanager.Gridact"
+            android:icon="@drawable/logo_s"
+            android:label="@string/OffdayLabel"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name="com.peisky.sm.shiftmanager.ArrangementSetUp"
+            android:icon="@drawable/logo_s"
+            android:label="@string/ResultLabel"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.peisky.sm.shiftmanager.BrowseShifts"
+            android:icon="@drawable/logo_s"
+            android:label="@string/browseLabel"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.peisky.sm.shiftmanager.ReadTable"
+            android:icon="@drawable/logo_s"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.peisky.sm.shiftmanager.SettingActivity"
+            android:icon="@drawable/logo_s"
+            android:label="@string/SettingLabel"
+            android:screenOrientation="portrait" />
+    </application>
+
+</manifest>

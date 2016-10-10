@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">誰來值班</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="New">New</string>
+    <string name="New_set">New set</string>
+    <string name="Load_set">Load set</string>
+    <string name="Set_edit">Set edit</string>
+    <string name="editworker">Edit worker</string>
+    <string name="Shifset">開始排班</string>
+    <string name="addnewset">Add new set</string>
+    <string name="txtName">Name</string>
+    <string name="Note">Note</string>
+    <string name="Shiftsetedit">Shift set edit</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="del_alert_title">警告</string>
+    <string name="del_confirmation">確認刪除?</string>
+    <string name="AddnewWorker">新增人員</string>
+    <string name="WorkerInputDialogTitle">新增人員</string>
+    <string name="startarrange">開始排程</string>
+    <string name="Week_Sun">日</string>
+    <string name="Week_Mon">一</string>
+    <string name="Week_Tue">二</string>
+    <string name="Week_Wed">三</string>
+    <string name="Week_Thu">四</string>
+    <string name="Week_Fri">五</string>
+    <string name="Week_Sat">六</string>
+    <string name="WorkerEditDialogTitle">編輯姓名</string>
+    <string name="GoToArrange">開始計算班表</string>
+    <string name="action_delete">刪除</string>
+    <string name="action_ReversSelect">反轉選取</string>
+    <string name="WorkerListEmptyMessage">點選右上+圖示新增人員</string>
+    <string name="btn_browseshift">瀏覽班表</string>
+    <string name="DialogTableEditTitle">編輯班表資訊</string>
+    <string name="ShiftConfSettinLabel">排班人員及參數設定</string>
+    <string name="ResultLabel">計算結果</string>
+    <string name="browseLabel">班表瀏覽</string>
+    <string name="SettingLabel">參數設定</string>
+    <string name="OffdayLabel">設定假日</string>
+    <string name="txtShiftMonth">排班月份</string>
+    <string name="ad_content">喜歡誰來值班嗎？\n家倍安還有更棒的服務！\n\n
+任何照顧問題，一通電話我們為您服務到家！找輔具、找補助、找人力、找居家改造或是照顧方法，一次搞定！馬上去看看！</string>
+    <string name="namelabel">姓名:</string>
+    <string name="NoResult">無符合的結果，可能是參予人員太少，或是同時放假的人數太多</string>
+
+</resources>

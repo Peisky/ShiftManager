@@ -1,0 +1,54 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <item name="android:background">@color/bg_blue</item>  
+        
+    </style>
+    
+	<style name="myTheme" parent="android:Theme.Holo">
+   		<item name="android:windowBackground">@color/bg_blue</item>
+    	<item name="android:colorBackground">@color/bg_blue</item>
+    	<item name="android:actionBarStyle">@style/actionBarStyle</item>
+    	 <item name="android:textViewStyle">@style/mytextview</item>
+    	 <item name="android:dropDownListViewStyle">@style/mySpinnerStyle</item>
+    	 
+	</style>
+	
+	<style name="actionBarStyle"
+	       parent="@android:style/Widget.Holo.Light.ActionBar.Solid">
+	    <item name="android:background">@color/bg_blue</item>
+	    <item name="android:height">75dp</item>
+	</style>
+	
+	
+    
+	<!-- Widget -->
+	<style name = "mySpinnerStyle" parent="@android:style/Widget.ListView.DropDown">
+	    <item name = "android:divider"> @color/bg_blue</item>
+	    <item name = "android:dividerHeight">1dp</item>
+	    
+	    
+	</style>
+	<style name = "mytextview" parent="android:style/TextAppearance">
+	    <item name = "android:textStyle">bold</item> 
+	</style>
+	
+	<style name="adDialog" parent="android:style/Theme.Dialog">
+	    <item name="android:windowNoTitle">true</item>
+	</style>
+	
+	
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    
+    <CheckBoxPreference android:key="isWeekeShift" android:title="周末排班" android:defaultValue="true" android:widgetLayout="@layout/custom_pref_checkbox"/>
+    <CheckBoxPreference android:key="isWeekNoCont" android:title="周末隔週不連續" android:defaultValue="true" android:selectable="true" android:persistent="true" android:summary="" android:widgetLayout="@layout/custom_pref_checkbox" android:enabled="true"/>
+    <com.preferenceclass.NumberPickerPreference android:key="NDayNoCont" android:title="不連續天數" android:defaultValue="2" android:persistent="true" android:summary="最少間隔2天" />
+    <PreferenceCategory android:title="SCORE">
+   		<com.preferenceclass.ScorePreference android:key="SUN" android:title = "週日" android:defaultValue="2" android:persistent="true" />
+    	<com.preferenceclass.ScorePreference android:key="MON" android:title = "周一" android:defaultValue="1" android:persistent="true" />
+    	<com.preferenceclass.ScorePreference android:key="TUE" android:title = "周二" android:defaultValue="1" android:persistent="true" />
+    	<com.preferenceclass.ScorePreference android:key="WED" android:title = "周三" android:defaultValue="1" android:persistent="true" />
+		<com.preferenceclass.ScorePreference android:key="THU" android:title = "周四" android:defaultValue="1" android:persistent="true" />
+		<com.preferenceclass.ScorePreference android:key="FRI" android:title = "周五" android:defaultValue="1" android:persistent="true" />
+		<com.preferenceclass.ScorePreference android:key="SAT" android:title = "周六" android:defaultValue="1.5" android:persistent="true" />
+	</PreferenceCategory>
+</PreferenceScreen>

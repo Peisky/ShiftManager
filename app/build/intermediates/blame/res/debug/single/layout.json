@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grid_offdate_2.xml",
+        "source": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\src\\main\\res\\layout\\grid_offdate_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\empty.xml",
+        "source": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\src\\main\\res\\layout\\empty.xml"
+    },
+    {
+        "merged": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_top_v2.xml",
+        "source": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\src\\main\\res\\layout\\spinner_top_v2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_act.xml",
+        "source": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\src\\main\\res\\layout\\main_act.xml"
+    },
+    {
+        "merged": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\arraged_v2.xml",
+        "source": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\src\\main\\res\\layout\\arraged_v2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\shiftsetdialog.xml",
+        "source": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\src\\main\\res\\layout\\shiftsetdialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\numberpickerdialog.xml",
+        "source": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\src\\main\\res\\layout\\numberpickerdialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ad_dialog.xml",
+        "source": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\src\\main\\res\\layout\\ad_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\shifttabledialog.xml",
+        "source": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\src\\main\\res\\layout\\shifttabledialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tablelist.xml",
+        "source": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\src\\main\\res\\layout\\tablelist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\empty_list.xml",
+        "source": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\src\\main\\res\\layout\\empty_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listcontent.xml",
+        "source": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\src\\main\\res\\layout\\listcontent.xml"
+    },
+    {
+        "merged": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tablelist_content.xml",
+        "source": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\src\\main\\res\\layout\\tablelist_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\workerlistcontent.xml",
+        "source": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\src\\main\\res\\layout\\workerlistcontent.xml"
+    },
+    {
+        "merged": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_pref_checkbox.xml",
+        "source": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\src\\main\\res\\layout\\custom_pref_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_top.xml",
+        "source": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\src\\main\\res\\layout\\spinner_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pref_score.xml",
+        "source": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\src\\main\\res\\layout\\pref_score.xml"
+    },
+    {
+        "merged": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grid_offdate.xml",
+        "source": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\src\\main\\res\\layout\\grid_offdate.xml"
+    },
+    {
+        "merged": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\shiftlist.xml",
+        "source": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\src\\main\\res\\layout\\shiftlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gridcontent.xml",
+        "source": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\src\\main\\res\\layout\\gridcontent.xml"
+    },
+    {
+        "merged": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\workerlist_v2.xml",
+        "source": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\src\\main\\res\\layout\\workerlist_v2.xml"
+    }
+]

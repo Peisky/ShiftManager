@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_vertical"
+    android:orientation="vertical"
+    android:padding="30dp" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:textColor="@color/White"
+        android:paddingBottom="30dp"
+        android:text="@string/app_name"
+        android:textStyle="bold"
+        android:textSize="40sp" />
+
+    <ImageView
+        android:id="@+id/ImgView"
+    	android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+ 		android:layout_gravity="center_horizontal"
+        android:contentDescription="LOGO"
+        android:cropToPadding="true"
+        android:scaleType="centerCrop"
+        android:src="@drawable/logo_l" 
+        />
+
+    <Button
+        android:id="@+id/btnshiftset"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        
+        android:layout_marginRight="40dp"
+        android:layout_marginLeft="40dp"
+        android:background="@drawable/round_button_white"
+        android:text="@string/Shifset"
+        android:textColor="@color/bg_blue" />
+
+    <Button
+        android:id="@+id/btn_BrowsShift"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginLeft="40dp"
+        android:background="@drawable/round_button_white"
+        android:text="@string/btn_browseshift"
+        android:textColor="@color/bg_blue" />
+
+    <ImageButton
+        android:id="@+id/imageButton1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="@dimen/image_btn_margin"
+        android:src="@drawable/carebest_image_button" 
+        android:background="#00000000"/>
+		
+</LinearLayout>

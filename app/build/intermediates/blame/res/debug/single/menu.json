@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\build\\intermediates\\res\\merged\\debug\\menu\\setlistitemmenu.xml",
+        "source": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\src\\main\\res\\menu\\setlistitemmenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\build\\intermediates\\res\\merged\\debug\\menu\\workercontextmenu.xml",
+        "source": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\src\\main\\res\\menu\\workercontextmenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\build\\intermediates\\res\\merged\\debug\\menu\\browser_contextualmenu.xml",
+        "source": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\src\\main\\res\\menu\\browser_contextualmenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\build\\intermediates\\res\\merged\\debug\\menu\\workerlistmenu.xml",
+        "source": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\src\\main\\res\\menu\\workerlistmenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\build\\intermediates\\res\\merged\\debug\\menu\\browser_actionbar.xml",
+        "source": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\src\\main\\res\\menu\\browser_actionbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]

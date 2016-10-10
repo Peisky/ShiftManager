@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/item_del" 
+       
+        android:title="刪除" android:showAsAction="always"></item>
+     <item android:id="@+id/item_edit" 
+       
+        android:title="編輯" android:showAsAction="always"></item>
+     <item android:id="@+id/item_Select "
+         
+        android:title="選擇" android:showAsAction="always"></item>
+</menu>

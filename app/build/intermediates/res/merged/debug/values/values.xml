@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Black">#000000</color>
+    <color name="Dark_red">#D7000F</color>
+    <color name="KURENAI">#CB1B45</color>
+    <color name="MUSHIKURI">#D9CD90</color>
+    <color name="NAE">#86C166</color>
+    <color name="SAKURA">#FEDFE1</color>
+    <color name="SHINBASHI">#0089A7</color>
+    <color name="T_red">#E50011</color>
+    <color name="White">#FFFFFF</color>
+    <color name="b_brown_2">#733224</color>
+    <color name="b_brown_deep_1">#734B34</color>
+    <color name="b_brown_shallow">#F2B988</color>
+    <color name="b_brown_shallow_2">#BF815E</color>
+    <color name="b_white">#F2F2F2</color>
+    <color name="bg_blue">#1BA7D8</color>
+    <color name="bg_dark_blue">#189DCB</color>
+    <color name="button_red">#FF6666</color>
+    <color name="button_shade">#DCDCDC</color>
+    <color name="dark_gray">#B4B5B5</color>
+    <color name="green">#00A590</color>
+    <color name="light_gray">#EEEFEF</color>
+    <color name="red_shadow">#CC5252</color>
+    <color name="trans">#00FFFFFF</color>
+    <color name="txtDark_gray">#6F6D6D</color>
+    <color name="txtdark_blue">#0E78B2</color>
+    <color name="txtnotsodarkblue">#0C85AC</color>
+    <color name="yellow">#FBC827</color>
+    <declare-styleable name="GridLayout"><attr name="orientation"><enum name="horizontal" value="0"/><enum name="vertical" value="1"/></attr><attr format="integer" name="rowCount"/><attr format="integer" name="columnCount"/><attr format="boolean" name="useDefaultMargins"/><attr name="alignmentMode"><enum name="alignBounds" value="0"/><enum name="alignMargins" value="1"/></attr><attr format="boolean" name="rowOrderPreserved"/><attr format="boolean" name="columnOrderPreserved"/></declare-styleable>
+    <declare-styleable name="GridLayout_Layout"><attr name="android:layout_width"/><attr name="android:layout_height"/><attr name="android:layout_margin"/><attr name="android:layout_marginLeft"/><attr name="android:layout_marginTop"/><attr name="android:layout_marginRight"/><attr name="android:layout_marginBottom"/><attr format="integer" name="layout_row"/><attr format="integer" min="1" name="layout_rowSpan"/><attr format="integer" name="layout_column"/><attr format="integer" min="1" name="layout_columnSpan"/><attr name="layout_gravity"><flag name="top" value="0x30"/><flag name="bottom" value="0x50"/><flag name="left" value="0x03"/><flag name="right" value="0x05"/><flag name="center_vertical" value="0x10"/><flag name="fill_vertical" value="0x70"/><flag name="center_horizontal" value="0x01"/><flag name="fill_horizontal" value="0x07"/><flag name="center" value="0x11"/><flag name="fill" value="0x77"/><flag name="clip_vertical" value="0x80"/><flag name="clip_horizontal" value="0x08"/><flag name="start" value="0x00800003"/><flag name="end" value="0x00800005"/></attr></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="default_gap">16dip</dimen>
+    <dimen name="txt_sift_talbe_size">24sp</dimen>
+    <string name="AddnewWorker">新增人員</string>
+    <string name="DialogTableEditTitle">編輯班表資訊</string>
+    <string name="GoToArrange">開始計算班表</string>
+    <string name="Load_set">Load set</string>
+    <string name="New">New</string>
+    <string name="New_set">New set</string>
+    <string name="NoResult">無符合的結果，可能是參予人員太少，或是同時放假的人數太多</string>
+    <string name="Note">Note</string>
+    <string name="OffdayLabel">設定假日</string>
+    <string name="ResultLabel">計算結果</string>
+    <string name="Set_edit">Set edit</string>
+    <string name="SettingLabel">參數設定</string>
+    <string name="Shifset">開始排班</string>
+    <string name="ShiftConfSettinLabel">排班人員及參數設定</string>
+    <string name="Shiftsetedit">Shift set edit</string>
+    <string name="Week_Fri">五</string>
+    <string name="Week_Mon">一</string>
+    <string name="Week_Sat">六</string>
+    <string name="Week_Sun">日</string>
+    <string name="Week_Thu">四</string>
+    <string name="Week_Tue">二</string>
+    <string name="Week_Wed">三</string>
+    <string name="WorkerEditDialogTitle">編輯姓名</string>
+    <string name="WorkerInputDialogTitle">新增人員</string>
+    <string name="WorkerListEmptyMessage">點選右上+圖示新增人員</string>
+    <string name="action_ReversSelect">反轉選取</string>
+    <string name="action_delete">刪除</string>
+    <string name="action_settings">Settings</string>
+    <string name="ad_content">喜歡誰來值班嗎？\n家倍安還有更棒的服務！\n\n
+任何照顧問題，一通電話我們為您服務到家！找輔具、找補助、找人力、找居家改造或是照顧方法，一次搞定！馬上去看看！</string>
+    <string name="addnewset">Add new set</string>
+    <string name="app_name">誰來值班</string>
+    <string name="browseLabel">班表瀏覽</string>
+    <string name="btn_browseshift">瀏覽班表</string>
+    <string name="cancel">Cancel</string>
+    <string name="del_alert_title">警告</string>
+    <string name="del_confirmation">確認刪除?</string>
+    <string name="editworker">Edit worker</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="namelabel">姓名:</string>
+    <string name="ok">OK</string>
+    <string name="startarrange">開始排程</string>
+    <string name="txtName">Name</string>
+    <string name="txtShiftMonth">排班月份</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <item name="android:background">@color/bg_blue</item>  
+        
+    </style>
+    <style name="MainAct" parent="@style/myTheme">
+       <item name="android:windowNoTitle">true</item>
+
+    </style>
+    <style name="actionBarStyle" parent="@android:style/Widget.Holo.Light.ActionBar.Solid">
+	    <item name="android:background">@color/bg_blue</item>
+	    <item name="android:height">75dp</item>
+	</style>
+    <style name="adDialog" parent="android:style/Theme.Dialog">
+	    <item name="android:windowNoTitle">true</item>
+	</style>
+    <style name="mySpinnerStyle" parent="@android:style/Widget.ListView.DropDown">
+	    <item name="android:divider"> @color/bg_blue</item>
+	    <item name="android:dividerHeight">1dp</item>
+	    
+	    
+	</style>
+    <style name="myTheme" parent="android:Theme.Holo">
+   		<item name="android:windowBackground">@color/bg_blue</item>
+    	<item name="android:colorBackground">@color/bg_blue</item>
+    	<item name="android:actionBarStyle">@style/actionBarStyle</item>
+    	 <item name="android:textViewStyle">@style/mytextview</item>
+    	 <item name="android:dropDownListViewStyle">@style/mySpinnerStyle</item>
+    	 
+	</style>
+    <style name="mytextview" parent="android:style/TextAppearance">
+	    <item name="android:textStyle">bold</item> 
+	</style>
+    <style name="txt_shift_talbe_title" parent="@android:style/TextAppearance">
+       <item name="android:textSize">20dp</item>
+        
+    </style>
+</resources>

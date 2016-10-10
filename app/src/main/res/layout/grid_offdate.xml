@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+<RelativeLayout 
+     android:layout_width="fill_parent"
+    android:layout_height="wrap_content">
+    <EditText
+        android:id="@+id/edtDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_toRightOf="@+id/edtName"
+        android:ems="5"
+        android:labelFor="@+id/edtDate"
+        android:inputType="date" 
+        android:focusable="false">
+		
+    </EditText>
+    
+    <EditText 
+        android:id="@+id/edtName"
+        android:layout_toRightOf="@+id/textView1"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:labelFor="@+id/edtName"
+        android:focusable="false"
+        android:ems="10" >
+
+    </EditText>
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+    	android:layout_alignParentLeft="true"
+        android:text="@string/namelabel"
+         />
+    
+</RelativeLayout>
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center_horizontal" >
+
+        <TextView
+            android:id="@+id/txtTable_Name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/bg_blue"
+            android:gravity="center_horizontal"
+            android:text="@string/Week_Sun"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:textColor="@color/txtdark_blue" />
+
+        <TextView
+            android:id="@+id/txtTable_note"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/bg_blue"
+            android:gravity="center_horizontal"
+            android:text="@string/Week_Mon"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:textColor="@color/White" />
+
+        <TextView
+            android:id="@+id/txtTable_id"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/bg_blue"
+            android:gravity="center_horizontal"
+            android:text="@string/Week_Tue"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:textColor="@color/White" />
+
+        <TextView
+            android:id="@+id/txtTable_Created"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/bg_blue"
+            android:gravity="center_horizontal"
+            android:text="@string/Week_Wed"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:textColor="@color/White" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/bg_blue"
+            android:gravity="center_horizontal"
+            android:text="@string/Week_Thu"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:textColor="@color/White" />
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/bg_blue"
+            android:gravity="center_horizontal"
+            android:text="@string/Week_Fri"
+           	android:textStyle="bold"
+            android:textSize="20sp"
+            android:textColor="@color/White" />
+
+        <TextView
+            android:id="@+id/textView7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/bg_blue"
+            android:gravity="center_horizontal"
+            android:text="@string/Week_Sat"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="@color/txtdark_blue" />
+
+    </LinearLayout>
+
+    <GridView
+        android:id="@+id/gridView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:numColumns="7" 
+        android:horizontalSpacing="1px"
+        android:verticalSpacing="1px"
+        android:background="@color/Black">
+        
+    </GridView>
+
+    
+
+</LinearLayout>

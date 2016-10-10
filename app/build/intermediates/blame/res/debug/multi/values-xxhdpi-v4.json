@@ -1,0 +1,102 @@
+[
+    {
+        "outputFile": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\build\\intermediates\\res\\merged\\debug\\values-xxhdpi-v4\\values-xxhdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\src\\main\\res\\values-xxhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\src\\main\\res\\values-xxhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 42,
+                    "endOffset": 207
+                },
+                "from": {
+                    "file": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\src\\main\\res\\values-xxhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 304,
+                        "endColumn": 40,
+                        "endOffset": 343
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 212,
+                    "endColumn": 47,
+                    "endOffset": 255
+                },
+                "from": {
+                    "file": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\src\\main\\res\\values-xxhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 257,
+                        "endColumn": 45,
+                        "endOffset": 301
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 260,
+                    "endColumn": 50,
+                    "endOffset": 306
+                },
+                "from": {
+                    "file": "C:\\Users\\Peisky\\StudioProjects\\ShiftManager\\app\\src\\main\\res\\values-xxhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 208,
+                        "endColumn": 50,
+                        "endOffset": 254
+                    }
+                }
+            }
+        ]
+    }
+]

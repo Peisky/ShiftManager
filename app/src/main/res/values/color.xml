@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="SHINBASHI">#0089A7</color>
+    <color name="KURENAI">#CB1B45</color>
+    <color name="White">#FFFFFF</color>
+    <color name="Black">#000000</color>
+    <color name="NAE">#86C166</color>
+    <color name="b_white">#F2F2F2</color>
+    <color name="b_brown_shallow">#F2B988</color>
+    <color name="b_brown_shallow_2">#BF815E</color>
+    <color name="b_brown_deep_1">#734B34</color>
+    <color name="b_brown_2">#733224</color>
+    <color name="SAKURA">#FEDFE1</color>
+    <color name="MUSHIKURI">#D9CD90</color>
+    <color name="bg_blue">#1BA7D8</color>
+    <color name="bg_dark_blue">#189DCB</color>
+    <color name="T_red">#E50011</color>
+    <color name="Dark_red">#D7000F</color>
+    <color name="yellow">#FBC827</color>
+    <color name="green">#00A590</color>
+    <color name="dark_gray">#B4B5B5</color>
+    <color name="light_gray">#EEEFEF</color>
+    <color name="button_red">#FF6666</color>
+    <color name="red_shadow">#CC5252</color>
+    <color name="button_shade">#DCDCDC</color>
+    <color name="txtdark_blue">#0E78B2</color>
+    <color name="txtnotsodarkblue">#0C85AC</color>
+    <color name="trans">#00FFFFFF</color>
+    <color name="txtDark_gray">#6F6D6D</color>
+</resources>
